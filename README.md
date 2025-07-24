@@ -83,5 +83,5 @@ Edge cases like empty queue or insufficient stock
 📚 License
 This project is licensed under the MIT License.
 
-Want help styling the badge section or adding GitHub Actions workflow for automated tests? I’ve got templates that would showcase this API like it’s built for scale. Just say the word 🚀📘
+
 
